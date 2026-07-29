@@ -1,5 +1,4 @@
-# Internship-Projects
-# Internship Projects - Machine Learning
+# Internship Machine Learning Project 
 
 ## Candidate Details
 - **Name:** Rishabh Rawat  
